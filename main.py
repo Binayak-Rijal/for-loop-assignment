@@ -1,3 +1,4 @@
+task 1
 # price = int(input("Enter the price of the item: "))
 # if price > 1000 :
 #     discount = 10/100 * price
@@ -5,13 +6,13 @@
 # elif price > 500 :
 #     discount = 5/100 * price
 #     price = price - discount
-
+task 2
 # food = input("Would you take vegeterian or non vegeterian? ")
 # if food == "vegeterian" :
 #     print("Do you want salad or pasta?")
 # elif food == "non vegeterian" :
 #     print("Do you want chicken or fish?")
-
+task 3
 # salary = int(input("Enter your salary: "))
 # if salary > 50000 :
 #     print("You are a high earner")
@@ -22,13 +23,13 @@
 #         print("low earner")
 # else :
 #     print("Enter a valid number")
-
+task 4
 # numb = int(input("Enter a number: "))
 # if numb % 2 == 0 :
 #     print("It is divisible by 2")
 #     if numb % 5 == 0 :
 #         print("It is also divible by 5")
-
+task 5
 # marks = int(input("Enter the obtained marks: "))
 # if marks > 50 :
 #     if marks >= 90 :
@@ -37,7 +38,7 @@
 #         print("Good")
 # else :
 #     print("fail")
-
+task 6
 # num1 = float(input("Enter the first number: "))
 # num2 = float(input("Enter the second number: "))
 # num3 = float(input("Enter the third number: "))
@@ -52,7 +53,7 @@
 #     else:
 #         largest = num3
 # print("The largest number is:", largest)
-
+task 7
 # print("Welcome to the Forest Adventure.")
 # direction = str(input("Choose between left and right: "))
 # if direction == 'right':
@@ -63,7 +64,7 @@
 #         print("You were attacked by wild animals. Game Over.")
 #     elif activity == 'explore':
 #         print("You found treasure!")
-
+task 8
 # print("Welcome to Jungle Survival Challenge")
 # choice = str(input("Will you search for food or build a shelther?: "))
 # if choice == "search for food" :
@@ -74,7 +75,7 @@
 #         print("You found enough food. You Win!")
 # elif choice == 'build a shelther' :
 #     print("Your shelter collapsed in the rain. Game Over")
-
+task 9
 # print("Welcome to the Space Adventure.")
 # activity1 = str(input("Choose between land on Mars and fly to Jupiter: "))
 # if activity1 == 'fly to Jupiter':
@@ -85,7 +86,7 @@
 #         print("You ran out of resources. Game Over.")
 #     elif activity2 == 'explore':
 #         print("You found alien artifacts. You win!")
-
+task 10
 # print("Welcome to the Haunted Castle.")
 # activity1 = str(input("Choose between enter the castle and run away: "))
 # if activity1 == 'run away':
@@ -98,7 +99,7 @@
 #         print("You were captured by ghosts. Game Over")
 #     elif activity2 == 'green':
 #         print("You found the treasure. You Win!")
-
+task 11
 # print("Welcome to the Underwater World.")
 # activity1 = str(input("Choose between dive deeper and surface: "))
 # if activity1 == 'surface':
@@ -109,7 +110,7 @@
 #         print("You got lost underwater. Game Over.")
 #     elif activity2 == 'search for pearls':
 #         print("You found a rare pearl. You Win!")
-
+task 12
 # print("Welcome to the Pirate Ship Adventure.")
 # activity1 = str(input("Choose between search for treasure and battle enemy ships: "))
 # if activity1 == 'search for treasure':
@@ -124,7 +125,7 @@
 #         print("You were outnumbered. Game Over.")
 #     elif activity3 == 'attack':
 #         print("You won the battle. You Win!")
-
+task 13
 # print("Welcome to the Wizarding World.")
 # subject = str(input("Choose a subject: 'spells' or 'potions': "))
 # if subject == 'spells':
@@ -141,7 +142,7 @@
 #         print("Your potion backfired. Game Over.")
 # else:
 #     print("Invalid choice. Please start again.")
-
+task 14
 # print("Welcome to the Cybersecurity Mission.")
 # mission = str(input("Choose your mission: 'trace the hacker' or 'secure the system': "))
 # if mission == 'trace the hacker':
@@ -158,7 +159,7 @@
 #         print("The hacker bypassed it. Game Over.")
 # else:
 #     print("Invalid choice. Please start again.")
-
+task 15
 # num = int(input("Enter any number: "))
 # if num % 2 == 0 and num % 7 == 0:
 #     print("Double Seven.")
@@ -168,7 +169,7 @@
 #     print("Lucky Seven.")
 # else:
 #     print(num)
-
+task 16
 # num = int(input("Enter any number: "))
 # if num > 100:
 #     print("Big Number.")
@@ -178,7 +179,7 @@
 #     print("Small Number.")
 # else:
 #     print("No Number.")
-
+task 17
 # color = str(input("Choose between Red, Yellow, Green: "))
 # if color == 'red':
 #     print("Stop")
@@ -188,7 +189,7 @@
 #     print("Go")
 # else:
 #     print("Invalid Signal.")
-
+task 18
 # celsius = int(input("Enter the temperature in celsius: "))
 # if celsius >= 40:
 #     print("Hot.")
@@ -198,7 +199,7 @@
 #     print("Cold.")
 # else:
 #     print("Invalid Celsius")
-
+task 19
 # BMI = float(input("Enter the weight of a person in BMI: "))
 # if BMI < 18.5:
 #     print("Underweight.")
@@ -208,7 +209,7 @@
 #     print("Overweight.")
 # elif BMI >= 30:
 #     print("Obesity.")
-
+task 20
 # num1 = int(input("Enter first number: "))
 # num2 = int(input("Enter second number: "))
 # if num1 % 2 == 0 and num2 % 2 == 0:
@@ -220,7 +221,7 @@
 # else:
 #     mul = num1 * num2
 #     print(f"Product is {mul}")
-
+task 21
 # price = int(input("Enter the price of a person: "))
 # if price >= 1000:
 #     new_price = price * 0.20
@@ -230,7 +231,7 @@
 #     print(f"New Price is {new_price2}")
 # elif price < 500:
 #     print(f"No discount. So {price}")
-
+task 22
 # age = int(input("Enter the age of a person: "))
 # gender = str(input("Choose the gender: "))
 # income = int(input("Enter the income of a person: "))
@@ -255,7 +256,7 @@
 #             print("Tax 20%.")
 #         elif income <= 1000000:
 #             print("Tax 10%.")
-
+task 23
 # age = int(input("Enter your age: "))
 # gender = str(input("Enter your gender: "))
 # score = int(input("Enter your academic score (out of 100): "))
@@ -276,7 +277,7 @@
 #             print("No Scholarship")
 # else:
 #     print("Age not within the eligible range.")
-
+task 24
 # age = int(input("Enter your age: "))
 # gender = str(input("Enter your gender: "))
 # experience = int(input("Enter your experience (years): "))
@@ -295,7 +296,7 @@
 #     print("Manager Role")
 # else:
 #     print("Age not within the eligible range.")
-
+task 25
 # age = int(input("Enter your age: "))
 # gender = str(input("Enter your gender: "))
 # show_type = str(input("Enter the show type ('Matinee'/'Evening'): "))
@@ -319,7 +320,7 @@
 #     print("Ticket = Rs600")
 # else:
 #     print("Invalid input.")
-
+task 26
 # age = int(input("Enter your age: "))
 # gender = str(input("Enter your gender: "))
 # membership_type = str(input("Enter the membership type ('Monthly'/'Yearly'): "))
